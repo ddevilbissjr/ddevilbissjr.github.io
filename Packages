@@ -1,6 +1,6 @@
 Package: com.d4nny.lockscreenfun
 Name: LockScreenFun
-Depends: mobilesubstrate
+Depends: MobileSubstrate
 Version: 1.1
 Architecture: iphoneos-arm
 MD5sum: c3211a00d1bc40ab9dd02ffd6fe9b174
