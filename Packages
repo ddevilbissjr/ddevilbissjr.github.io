@@ -3,12 +3,12 @@ Name: LockScreenFun
 Depends: MobileSubstrate
 Version: 1.1
 Architecture: iphoneos-arm
-MD5sum: c3211a00d1bc40ab9dd02ffd6fe9b174
-SHA1: e79f44e0602309c2c9f2ac9804f3e0bcd9366264
-SHA256: 59ea42683f9ea20f6682f9e2dc8ced7e0088d3ad66141c34e992498b0aecd884
-Size: 16120
+MD5sum: 28f66d4144e95631d684d11fda55dbcf
+SHA1: a27501fdd02f4851cfbeb40bd6e1765d6372fe4c
+SHA256: 58c1af19e8a6a2ea7172c0065068f41f4f78431d1c40ce7a75874fb16d5ee685
+Size: 15952
 Filename: ./debs/com.d4nny.lockscreenfun_1.1_iphoneos-arm.deb
 Maintainer: d4nny <dan.devilbissjr@gmail.com>
 Author: d4nny_dev
 Section: Tweaks
-Description: <b>This tweak changes some of the lock screen features such as:<b>•Custom slide text\n•Hide the slide text\n•Hide the arrows on the slide text\n•Option to show the slide text immediately\n•Change Date Font Color\n•Only show the Date instead of battery percentage\nand more coming.
+Description: This tweak changes some of the lock screen features such as: •Custom slide text •Hide the slide text •Hide the arrows on the slide text •Option to show the slide text immediately •Change Date Font Color •Only show the Date instead of battery percentage and more coming.
