@@ -1,0 +1,9 @@
+Package: com.d4nny.lockscreenfun
+Name: LockScreenFun
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Have fun with the text and labels on the lock screen!
+Maintainer: d4nny
+Author: d4nny
+Section: Tweaks
