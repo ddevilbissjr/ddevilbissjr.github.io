@@ -3,14 +3,7 @@ Name: LockScreenFun
 Depends: mobilesubstrate
 Version: 1.1
 Architecture: iphoneos-arm
-Description: This tweak changes some of the lock screen features such as:
-•Custom slide text
-•Hide the slide text
-•Hide the arrows on the slide text
-•Option to show the slide text immediately
-•Change Date Font Color
-•Only show the Date instead of battery percentage
-and more coming.
+Description:
 Homepage: ddevilbissjr.github.io
 Maintainer: d4nny_dev <dan.devilbissjr@gmail.com>
 Author: d4nny_dev <dan.devilbissjr@gmail.com>
