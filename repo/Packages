@@ -12,3 +12,18 @@ Maintainer: d4nny <dan.devilbissjr@gmail.com>
 Author: d4nny_dev
 Section: Tweaks
 Description: This tweak changes some of the lock screen features such as: •Custom slide text •Hide the slide text •Hide the arrows on the slide text •Option to show the slide text immediately •Change Date Font Color •Only show the Date instead of battery percentage and more coming.
+
+Package: com.d4nny.ainc
+Name: AppIconNameChanger
+Depends: MobileSubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+MD5sum: 1c4630c51c2c21bf81d6e7b6aff8d033
+SHA1: 1655fbd4da6c88834a77c1e66ca7680632905964
+SHA256: 5766b3e816ff0237eb793700b87e595578b432ae8035a86d89b5a2c7820be57e
+Size: 17960
+Filename: ./debs/com.d4nny.ainc_1.0_iphoneos-arm.deb
+Maintainer: d4nny <dan.devilbissjr@gmail.com>
+Author: d4nny_dev
+Section: Tweaks
+Description: Changes all app name to whatever you want! 
