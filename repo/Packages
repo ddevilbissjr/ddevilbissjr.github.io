@@ -26,4 +26,19 @@ Filename: ./debs/com.d4nny.ainc_1.0_iphoneos-arm.deb
 Maintainer: d4nny <dan.devilbissjr@gmail.com>
 Author: d4nny_dev
 Section: Tweaks
-Description: Changes all app name to whatever you want! 
+Description: Changes all app name to whatever you want!
+
+Package: com.d4nny.notificationcellcolors
+Name: NotificationCellColors
+Depends: MobileSubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+MD5sum: 991703ed011e184a80919cb0be546117
+SHA1: 80b6aec94f0cf89bde93d958595841fe8cef682a
+SHA256: 5a37810124e14d03c96cbd94947336780d958e97c58db595f04745055867f311
+Size: 14692
+Filename: ./debs/com.d4nny.notificationcellcolors_1.0_iphoneos-arm.deb
+Maintainer: d4nny <dan.devilbissjr@gmail.com>
+Author: d4nny_dev
+Section: Tweaks
+Description: Change the colors of the notification cells!
