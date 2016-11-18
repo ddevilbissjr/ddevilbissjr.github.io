@@ -28,6 +28,21 @@ Author: d4nny_dev
 Section: Tweaks
 Description: Changes all app name to whatever you want!
 
+Package: com.d4nny.ainc
+Name: AppIconNameChanger
+Depends: MobileSubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+MD5sum: 7af9b41d6bac4cb928739d7d2ac47ecd
+SHA1: 12a6ffc108fb718ae8d42345896a70d29216fdf4
+SHA256: 7a834001990df69c63f5f1b46da27cb1af78728e05b3ff290125cef396857400
+Size: 21206
+Filename: ./debs/com.d4nny.ainc_1.0.1_iphoneos-arm.deb
+Maintainer: d4nny <dan.devilbissjr@gmail.com>
+Author: d4nny_dev
+Section: Tweaks
+Description: Changes all app name to whatever you want!
+
 Package: com.d4nny.notificationcellcolors
 Name: NotificationCellColors
 Depends: MobileSubstrate
@@ -42,3 +57,18 @@ Maintainer: d4nny <dan.devilbissjr@gmail.com>
 Author: d4nny_dev
 Section: Tweaks
 Description: Change the colors of the notification cells!
+
+Package: com.d4nny.statusbarfun
+Name: StatusBarFun
+Depends: MobileSubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+MD5sum: b6737f6119fbed1336d127d6be95c668
+SHA1: 40b1d49aba7ec2a53897bff517a799ab29e7fb79
+SHA256: 1d9bf0727b85a54e7224a3c3043e0d7d3274105ef19da54fd04312bce35bd510
+Size: 11818
+Filename: ./debs/com.d4nny.statusbarfun_1.0_iphoneos-arm.deb
+Maintainer: d4nny <dan.devilbissjr@gmail.com>
+Author: d4nny_dev
+Section: Tweaks
+Description: Change all of the status bar icons on (or invisible) for fun!
