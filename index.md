@@ -1,5 +1,3 @@
-### ddevilbissjr.github.io
-
 # Daniel DeVilbiss
 Carlsbad, California, United States
 
