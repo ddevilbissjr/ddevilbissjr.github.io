@@ -2,4 +2,4 @@
 #https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/crowed_list.txt
 https://blocklistproject.github.io/Lists/abuse.txt
 https://blocklistproject.github.io/Lists/ads.txt
-https://blocklistproject.github.io/Lists/youtube.txt
+#https://blocklistproject.github.io/Lists/youtube.txt
